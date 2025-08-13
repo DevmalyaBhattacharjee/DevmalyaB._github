@@ -1,9 +1,11 @@
-````markdown
-[!<img width="3780" height="1890" alt="banner_github" src="https://github.com/user-attachments/assets/9d6e301b-b93f-4637-a527-ba01bcb8215f" />
-](https://raw.githubusercontent.com/DevmalyaBhattacharjee/DevmalyaBhattacharjee/main/banner.png)]((https://www.linkedin.com/in/devmalya-bhattacharjee-66a21927a/))
+
+[![LinkedIn Banner](./banner_github.png)](https://www.linkedin.com/in/devmalya-bhattacharjee-66a21927a/)
+
+🔗 Click the banner above to visit my [LinkedIn](https://www.linkedin.com/in/devmalya-bhattacharjee-66a21927a/)
 
 # 👋 Hello Devs! I'm Devmalya
 
+````markdown
 ```java
 // Welcome to my GitHub
 public class Introduction {
@@ -44,23 +46,28 @@ public class Introduction {
 
 ### 🛠 Tech Stack
 
-<p align="center">
-<img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/SpringBoot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-<img src="https://img.shields.io/badge/GSAP-%2388CE02.svg?style=for-the-badge&logo=greensock&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white"/>
-</p>
+## 💻 Tech Stack
+
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
+![DSA](https://img.shields.io/badge/DSA-Data%20Structures%20%26%20Algorithms-orange?style=for-the-badge)
+![OOP](https://img.shields.io/badge/OOP-Object%20Oriented%20Programming-blue?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-MySQL%20%7C%20PostgreSQL-blue?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-%2388CE02.svg?style=for-the-badge&logo=greensock&logoColor=black)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+
 
 ---
 
@@ -75,7 +82,11 @@ public class Introduction {
 
 ## 🐍 GitHub Snake Contribution Animation
 
-![snake gif](https://github.com/DevmalyaBhattacharjee/DevmalyaBhattacharjee/blob/output/github-contribution-grid-snake-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DevmalyaBhattacharjee/DevmalyaBhattacharjee/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DevmalyaBhattacharjee/DevmalyaBhattacharjee/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/DevmalyaBhattacharjee/DevmalyaBhattacharjee/output/github-snake.svg" />
+</picture>
 
 ---
 
