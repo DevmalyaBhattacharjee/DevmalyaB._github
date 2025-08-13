@@ -5,7 +5,7 @@
 
 # 👋 Hello Devs! I'm Devmalya
 
-````markdown
+
 ```java
 // Welcome to my GitHub
 public class Introduction {
@@ -18,7 +18,7 @@ public class Introduction {
         System.out.println("I’m Devmalya 👨‍💻 — crafting code and solving problems one commit at a time!");
     }
 }
-````
+```
 
 ---
 
@@ -45,8 +45,6 @@ public class Introduction {
 ---
 
 ### 🛠 Tech Stack
-
-## 💻 Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
@@ -80,7 +78,7 @@ public class Introduction {
 
 ---
 
-## 🐍 GitHub Snake Contribution Animation
+### 🐍 GitHub Snake Contribution Animation
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DevmalyaBhattacharjee/DevmalyaBhattacharjee/output/github-snake-dark.svg" />
@@ -89,33 +87,3 @@ public class Introduction {
 </picture>
 
 ---
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"   # every day at 00:00 UTC
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Generate snake SVG
-        uses: Platane/snk@v3
-        with:
-          github_user_name: DevmalyaBhattacharjee
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-````
-```
