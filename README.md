@@ -1,4 +1,3 @@
-
 [![LinkedIn Banner](./banner_github.png)](https://www.linkedin.com/in/devmalya-bhattacharjee-66a21927a/)
 
 🔗 Click the banner above to visit my [LinkedIn](https://www.linkedin.com/in/devmalya-bhattacharjee-66a21927a/)
